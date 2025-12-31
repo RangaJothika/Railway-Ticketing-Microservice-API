@@ -1,2 +1,3 @@
-# Railway-Ticketing-Meal-Microservice-API
-Built a Spring Boot REST API using Spring MVC to manage railway tickets with CRUD operations, PNR-based queries, premium upgrades, and validation using custom exceptions. Integrated microservice communication with a Meal Service to manage meals by PNR. Tested APIs using Postman.
+# Railway-Ticketing-Microservice-API
+Developed a Spring Boot REST API for railway ticket management with CRUD operations, PNR-based search, premium ticket upgrades, and custom exception handling.
+Designed the service to communicate with a separate Meal microservice using PNR. API testing performed using Postman.
